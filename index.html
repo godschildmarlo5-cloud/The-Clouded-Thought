@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Clouded Thought — Geno the Prophet</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+:root{--bg:#090909;--panel:#121212;--text:#eee9df;--muted:#a7a19a;--line:#2b2926;--accent:#c5a46d}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 80% 0%,#24201a 0,#090909 34%),var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif;line-height:1.7}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.07;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.45'/%3E%3C/svg%3E")}
+nav{position:sticky;top:0;z-index:5;background:rgba(9,9,9,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);padding:16px 6vw;display:flex;justify-content:space-between;align-items:center}
+.logo{font-family:"Cormorant Garamond",serif;font-size:1.35rem;letter-spacing:.08em}.logo span{color:var(--accent)}
+nav a{color:var(--muted);text-decoration:none;margin-left:22px;font-size:.88rem}nav a:hover{color:var(--text)}
+.hero{min-height:78vh;display:grid;place-items:center;text-align:center;padding:90px 6vw;position:relative;overflow:hidden}
+.moon{position:absolute;width:380px;height:380px;border-radius:50%;border:1px solid #39342d;box-shadow:0 0 90px #8c744d22;right:-110px;top:-90px}
+.hero small{letter-spacing:.35em;text-transform:uppercase;color:var(--accent)}h1{font:600 clamp(3.6rem,10vw,8rem)/.82 "Cormorant Garamond",serif;margin:25px 0 20px;letter-spacing:-.04em}h2,h3{font-family:"Cormorant Garamond",serif}.tagline{font:400 clamp(1.2rem,2.5vw,1.7rem) "Cormorant Garamond",serif;color:#c9c2b8;max-width:650px;margin:auto}.author{margin-top:28px;color:var(--muted);letter-spacing:.18em;text-transform:uppercase;font-size:.78rem}
+.button{display:inline-block;margin-top:35px;padding:13px 22px;border:1px solid #5b4b32;color:var(--text);text-decoration:none;background:#17130f}.button:hover{border-color:var(--accent)}
+section{max-width:1120px;margin:auto;padding:80px 6vw}.section-label{color:var(--accent);letter-spacing:.2em;text-transform:uppercase;font-size:.72rem}.intro{max-width:720px}.intro h2{font-size:3rem;margin:10px 0}.intro p{color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:35px}.card{background:linear-gradient(145deg,#171717,#0e0e0e);border:1px solid var(--line);padding:28px;min-height:280px;display:flex;flex-direction:column}.card h3{font-size:2rem;line-height:1.05;margin:8px 0 15px}.card p{color:var(--muted);font-size:.93rem;flex:1}.tags{font-size:.72rem;color:var(--accent);letter-spacing:.08em}.read{color:var(--text);text-decoration:none;border-top:1px solid var(--line);padding-top:15px;font-size:.82rem}
+.feature{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:#0d0d0c;padding:75px 6vw}.feature-inner{max-width:900px;margin:auto}.feature h2{font-size:3.4rem;line-height:1;margin:12px 0}.feature blockquote{font:400 1.35rem/1.65 "Cormorant Garamond",serif;color:#d2ccc3;margin:30px 0}
+.about{display:grid;grid-template-columns:1fr 1fr;gap:50px}.about h2{font-size:3rem}.about p{color:var(--muted)}
+footer{border-top:1px solid var(--line);padding:35px 6vw;color:#777;font-size:.78rem;display:flex;justify-content:space-between}
+@media(max-width:800px){.grid,.about{grid-template-columns:1fr}.hero{min-height:72vh}.moon{width:240px;height:240px}.grid{gap:14px}nav{padding:14px 5vw}nav a{margin-left:10px}.intro h2,.about h2{font-size:2.5rem}}
+</style>
+</head>
+<body>
+<nav>
+  <div class="logo">THE <span>CLOUDED</span> THOUGHT</div>
+  <div><a href="#poems">Poems</a><a href="#about">About</a><a href="#login">Writer Login</a></div>
+</nav>
+
+<header class="hero">
+  <div class="moon"></div>
+  <div>
+    <small>A poetry archive by Geno the Prophet</small>
+    <h1>The Clouded Thought</h1>
+    <p class="tagline">Where the thoughts that stay hidden find a place to speak.</p>
+    <div class="author">Poetry · Perspective · Truth</div>
+    <a class="button" href="#poems">Enter the Thought ↓</a>
+  </div>
+</header>
+
+<section id="poems">
+  <div class="intro">
+    <div class="section-label">The Collection</div>
+    <h2>Words from the places the mind doesn't always speak from.</h2>
+    <p>The opening collection brings together faith, reflection, identity, love, and the lessons found between them.</p>
+  </div>
+  <div class="grid">
+    <article class="card">
+      <div class="tags">FAITH · PROTECTION · IDENTITY</div>
+      <h3>How I'm Rockin</h3>
+      <p>He walks different because he knows he isn't walking alone. A poem about faith, divine protection, purpose, and the unseen army around him.</p>
+      <a class="read" href="poems/how-im-rockin.html">Read poem →</a>
+    </article>
+    <article class="card">
+      <div class="tags">REFLECTION · HEALING · IDENTITY</div>
+      <h3>MIA</h3>
+      <p>Sometimes disappearing isn't running away. Sometimes it is stepping away long enough to hear your own voice again.</p>
+      <a class="read" href="poems/mia.html">Read poem →</a>
+    </article>
+    <article class="card">
+      <div class="tags">LOVE · RELATIONSHIPS · REFLECTION</div>
+      <h3>When Love Finds The Right Place</h3>
+      <p>A third-person reflection on the difference between love that becomes shelter and love that becomes a storm.</p>
+      <a class="read" href="poems/when-love-finds-the-right-place.html">Read poem →</a>
+    </article>
+  </div>
+</section>
+
+<div class="feature">
+  <div class="feature-inner">
+    <div class="section-label">Featured Poem</div>
+    <h2>How I'm Rockin</h2>
+    <blockquote>“God in front. Angels around him. Faith inside him.”</blockquote>
+    <a class="button" href="poems/how-im-rockin.html">Read the full poem</a>
+  </div>
+</div>
+
+<section id="about" class="about">
+  <div>
+    <div class="section-label">The Voice</div>
+    <h2>Geno the Prophet</h2>
+  </div>
+  <div>
+    <p>The Clouded Thought is a home for poems that sit somewhere between observation and confession—faith and doubt, love and loss, pressure and peace.</p>
+    <p>The goal isn't to make every thought comfortable. It's to give the honest ones somewhere to exist.</p>
+  </div>
+</section>
+
+<section id="login">
+  <div class="intro">
+    <div class="section-label">Private Area</div>
+    <h2>Writer Login</h2>
+    <p>The publishing dashboard will live here. The final version will use secure username-and-password authentication so Geno can add, edit, save drafts, and publish poems without touching the code.</p>
+    <a class="button" href="#">Dashboard coming next →</a>
+  </div>
+</section>
+
+<footer><span>© 2026 The Clouded Thought</span><span>Geno the Prophet</span></footer>
+</body>
+</html>
