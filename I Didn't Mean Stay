@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>I Didn't Mean to Stay — The Clouded Thought</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #0b0b0f;
+      color: #e8e8ec;
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.8;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 60px 0;
+    }
+
+    .back {
+      display: inline-block;
+      margin-bottom: 40px;
+      color: #aaaab5;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+    }
+
+    .back:hover {
+      color: white;
+    }
+
+    .tag {
+      font-family: Arial, sans-serif;
+      font-size: 12px;
+      letter-spacing: 2px;
+      color: #888894;
+      text-transform: uppercase;
+      margin-bottom: 15px;
+    }
+
+    h1 {
+      font-size: clamp(42px, 8vw, 72px);
+      line-height: 1.05;
+      margin: 0 0 15px;
+      font-weight: normal;
+    }
+
+    .subtitle {
+      color: #9999a5;
+      font-family: Arial, sans-serif;
+      font-size: 15px;
+      margin-bottom: 50px;
+    }
+
+    .poem {
+      font-size: 19px;
+      white-space: pre-line;
+      color: #dedee5;
+    }
+
+    .poem p {
+      margin: 0 0 28px;
+    }
+
+    .divider {
+      width: 60px;
+      height: 1px;
+      background: #55555f;
+      margin: 55px 0;
+    }
+
+    footer {
+      margin-top: 70px;
+      padding-top: 25px;
+      border-top: 1px solid #25252d;
+      color: #666671;
+      font-family: Arial, sans-serif;
+      font-size: 12px;
+      letter-spacing: 1px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <main class="container">
+
+    <a class="back" href="index.html">← Back to The Clouded Thought</a>
+
+    <div class="tag">Writing · Identity · Reflection</div>
+
+    <h1>I Didn't Mean to Stay</h1>
+
+    <div class="subtitle">
+      Sometimes writing begins as an escape and becomes a map back to yourself.
+    </div>
+
+    <div class="divider"></div>
+
+    <section class="poem">
+
+      <p>I didn't mean to stay.</p>
+
+      <p>It started as an escape.<br>
+      A blank page.<br>
+      A pen.<br>
+      A place to hide thoughts that spoke louder than people ever could.</p>
+
+      <p>I thought I was writing poems.<br>
+      Turns out,<br>
+      the poems were writing me.</p>
+
+      <p>Every line opened another door.<br>
+      Every door led somewhere stranger.<br>
+      Rooms I didn't know existed.<br>
+      Hallways built from old memories.<br>
+      Conversations with versions of myself I had forgotten were still alive.</p>
+
+      <p>I kept telling myself I'd leave after one more poem.<br>
+      One more mystery.<br>
+      One more question.<br>
+      One more glimpse into whatever lived behind my eyes.</p>
+
+      <p>But my inner world doesn't end.<br>
+      It expands.</p>
+
+      <p>Every answer gives birth to another question.<br>
+      Every truth arrives wearing a disguise.</p>
+
+      <p>Sometimes it looks like God.<br>
+      Sometimes it looks like grief.<br>
+      Sometimes it looks like a child standing alone in a memory asking why the world became what it became.</p>
+
+      <p>And I follow.</p>
+
+      <p>Because that's what writers do.</p>
+
+      <p>We follow footprints nobody else can see.<br>
+      We chase echoes through abandoned parts of ourselves.<br>
+      We become archaeologists digging through emotional ruins hoping to find something still breathing beneath the dust.</p>
+
+      <p>People ask why I write so much.</p>
+
+      <p>As if there's somewhere else to go.</p>
+
+      <p>As if I could abandon a universe that keeps unfolding inside my skull.</p>
+
+      <p>A universe where silence speaks.<br>
+      Where wounds become stories.<br>
+      Where loneliness transforms into language.<br>
+      Where pain changes shape until it becomes art.</p>
+
+      <p>I fell in love with poetry the way people fall in love with dangerous places.<br>
+      Slowly.<br>
+      Without realizing it.<br>
+      Then all at once.</p>
+
+      <p>Now every poem feels like a map.</p>
+
+      <p>Not to the world outside—<br>
+      but to the endless country within.</p>
+
+      <p>And maybe that's why I stay.</p>
+
+      <p>Not because I'm lost.<br>
+      But because there are still too many mysteries left.<br>
+      Too many locked doors.<br>
+      Too many unanswered prayers.<br>
+      Too many beautiful things hiding in the dark.</p>
+
+      <p>And if I leave now,<br>
+      who will tell their stories?</p>
+
+    </section>
+
+    <footer>
+      THE CLOUDED THOUGHT
+    </footer>
+
+  </main>
+
+</body>
+</html>
