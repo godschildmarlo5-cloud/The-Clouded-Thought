@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>God's Property — The Clouded Thought</title>
+
+<style>
+:root {
+    --bg: #090909;
+    --text: #eee9df;
+    --muted: #aaa49a;
+    --gold: #c9b27c;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 1.9;
+}
+
+main {
+    max-width: 850px;
+    margin: auto;
+    padding: 60px 24px;
+}
+
+.back {
+    display: inline-block;
+    color: var(--gold);
+    text-decoration: none;
+    margin-bottom: 40px;
+}
+
+.label {
+    font-family: Arial, sans-serif;
+    color: var(--gold);
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    font-size: .78rem;
+}
+
+h1 {
+    font-size: clamp(2.4rem, 7vw, 4.5rem);
+    line-height: 1.05;
+    font-weight: 400;
+    margin: 14px 0 30px;
+}
+
+.poem {
+    font-size: 1.15rem;
+    white-space: pre-line;
+    color: #e8e3da;
+}
+
+@media (max-width: 600px) {
+    main {
+        padding: 40px 20px;
+    }
+
+    .poem {
+        font-size: 1.05rem;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<main>
+
+<a class="back" href="index.html">← Back to The Collection</a>
+
+<div class="label">Faith · Identity · Spiritual Reflection</div>
+
+<h1>God's Property</h1>
+
+<div class="poem">
+
+The Devil opened a pawn shop somewhere between fear and desire.
+
+A crooked little building hidden behind fame, behind addiction, behind power, behind every door marked:
+
+"There has to be more."
+
+The line stretched for miles.
+
+Politicians.
+
+Preachers.
+
+Artists.
+
+Kings of empty kingdoms.
+
+Broken people carrying broken dreams.
+
+Each one stepped forward holding something in trembling hands.
+
+"My soul," they said.
+
+The Devil smiled.
+
+He always smiles.
+
+It's bad for business when customers read the contract.
+
+So he took their offerings.
+
+Stamped them.
+
+Filed them.
+
+Laughed.
+
+And the whole time I stood in the corner of my own mind watching.
+
+Observing.
+
+The way I always do.
+
+Fragments of myself sat beside me.
+
+Fear lit a cigarette.
+
+Pride adjusted his crown.
+
+Addiction bounced his leg impatiently.
+
+Shame kept staring at the floor.
+
+"Maybe they're right," Fear whispered.
+
+"Maybe souls can be sold."
+
+The room went quiet.
+
+Then Understanding, an old man with galaxies in his eyes, began to laugh.
+
+Not a cruel laugh.
+
+A knowing laugh.
+
+The kind of laugh a father gives when a child thinks they can buy the moon.
+
+"Sell what?" he asked.
+
+Everyone turned.
+
+"Your soul."
+
+Understanding laughed harder.
+
+"You can't sell what was never yours."
+
+Silence.
+
+The Devil's smile twitched.
+
+Understanding stood.
+
+His bones sounded like ancient church doors opening.
+
+"You didn't create your soul."
+
+"You didn't breathe life into yourself."
+
+"You didn't stitch eternity into your spirit."
+
+"So how can you sell it?"
+
+Fear dropped his cigarette.
+
+Pride removed his crown.
+
+Even Addiction stopped shaking.
+
+Meanwhile, the Devil began gathering papers.
+
+Nervously.
+
+Quickly.
+
+Like a businessman being audited by Heaven.
+
+"You can surrender."
+
+"You can rebel."
+
+"You can wander."
+
+"You can wound yourself."
+
+"You can forget who you belong to."
+
+"But ownership?"
+
+The old man shook his head.
+
+"No."
+
+Then the walls of my mind cracked open.
+
+And I saw it.
+
+A courtroom larger than creation.
+
+Stars hanging like chandeliers.
+
+Angels standing as witnesses.
+
+Time itself sitting silently in the gallery.
+
+And there, above every throne, above every kingdom, above every accusation—
+
+God.
+
+Not speaking.
+
+Not needing to.
+
+Because His signature was already written across every human soul.
+
+The Devil looked small.
+
+Tiny.
+
+Like a thief trying to claim ownership of stolen sunlight.
+
+"You don't own them," the heavens seemed to say.
+
+"You never did."
+
+The Devil screamed.
+
+"But they chose me."
+
+The stars answered:
+
+"They chose darkness."
+
+"That isn't the same as ownership."
+
+Then I understood.
+
+The greatest lie wasn't that people sell their souls.
+
+The greatest lie was believing God stopped wanting them afterward.
+
+No.
+
+The Father still stands at the edge of every wilderness.
+
+Still calls names through addictions.
+
+Through pride.
+
+Through mistakes.
+
+Through graveyards of regret.
+
+Still says:
+
+"Come home."
+
+The fragments inside me began to disappear.
+
+Fear left first.
+
+Then Shame.
+
+Then Pride.
+
+Then all the voices that had spent years telling me I belonged to my failures.
+
+And in the silence that remained, I heard only one voice.
+
+Ancient.
+
+Gentle.
+
+Unshaken.
+
+"You are Mine."
+
+Not because I earned it.
+
+Not because I deserved it.
+
+Not because I never wandered.
+
+But because no created thing can outbid its Creator.
+
+And no thief, no darkness, no devil, can purchase what Heaven has already claimed.
+
+The pawn shop closed.
+
+The contracts burned.
+
+The lie collapsed.
+
+And somewhere beyond the noise of the world,
+
+God was still holding what was always His.
+
+</div>
+
+</main>
+
+</body>
+</html>
